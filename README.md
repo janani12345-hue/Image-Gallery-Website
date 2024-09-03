@@ -14,6 +14,6 @@ To view the image gallery, simply clone this repository and open index.html in y
 
 bash
 Copy code
-git clone https://github.com/your-username/image-gallery-website.git
+git clone  https://janani12345-hue.github.io/Image-Gallery-Website/
 cd image-gallery-website
 open index.html
